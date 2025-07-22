@@ -49,10 +49,6 @@ I'm a passionate **React Native Developer** with **5+ years of experience** buil
 - [View on NPM](https://www.npmjs.com/package/react-native-basic-dropdown)
 
 ## 📊 GitHub Stats
-
-![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?vaish8529=vaish8529&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?vaish8529=vaish8529&layout=compact&theme=radical)
 ![](https://github-readme-stats.vercel.app/api?username=vaish8529&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vaish8529&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaish8529&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
