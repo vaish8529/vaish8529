@@ -45,7 +45,7 @@ I'm a passionate **React Native Developer** with **5+ years of experience** buil
 
 - **Open-source dropdown component** for React Native
 - **Clean integration** with dynamic list support
-- **860+ downloads** and growing
+- **1000+ downloads** and growing
 - [View on NPM](https://www.npmjs.com/package/react-native-basic-dropdown)
 
 ## 📊 GitHub Stats
@@ -71,11 +71,8 @@ I'm a passionate **React Native Developer** with **5+ years of experience** buil
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/YOUR_SO_ID)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavi.g.maske@gmail.com)
 
-📍 **Location:** Nagpur, Maharashtra, India  
-📱 **Phone:** +91-8983759429
-
 ---
 
 💡 **"Passionate about creating mobile solutions that make a difference. Always learning, always building!"**
 
-⭐️ From [VaishnaviMaske](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [VaishnaviMaske](https://github.com/vaish8529)
