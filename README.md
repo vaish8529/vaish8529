@@ -1,13 +1,58 @@
-# 💫 About Me:
-I’m Vaishnavi Maske, a mobile application developer with over 4+ years of experience specializing in React Native. I’ve built scalable, high-performance apps across fintech, insurance, and enterprise sectors, serving over 1500+ users and increasing product sales by 45%. My work reflects a blend of technical depth, user-focused design, and strong ownership of the full development lifecycle. I’m also the creator of a published NPM package, demonstrating my commitment to building reusable tools and following modern development workflows.<br><br>
-💼 Currently working as a **Project Lead** at EliteGeneral Insurance Brokers Pvt Ltd, I’ve led end-to-end mobile app development that boosted user adoption. I enjoy solving complex problems and integrating APIs, CI/CD workflows, and third-party services to bring ideas to life.<br><br>🔧 Tech Stack: JavaScript, TypeScript, React Native, Redux, Firebase, REST APIs, Android, Git, Postman  <br>🚀 Passionate about clean architecture, mobile UI/UX, and performance optimization  <br>📱 Live apps on Google Play: [Policy of India](https://play.google.com/store/apps/details?id=com.poi) <br><br>
+# Hi there, I'm Vaishnavi Maske! 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-maske-565855139) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/19153194/vaishnavi-maske) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnavi.g.maske@gmail.com) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-# 📊 GitHub Stats:
+I'm a passionate **React Native Developer** with **5+ years of experience** building scalable iOS and Android applications. Based in Nagpur, Maharashtra, I specialize in creating high-performance mobile solutions that drive business growth and deliver exceptional user experiences.
+
+- 🔭 Currently working as **Software Developer (Project Lead)** at EliteGeneral Insurance Brokers Pvt Ltd
+- 🌱 Experienced in building apps that support **3,500+ users** and boost revenue by **45%+**
+- 💡 Published open-source React Native components with **1000+ downloads**
+- 🎯 Focused on **clean architecture**, **performance optimization**, and **security**
+
+## 🛠️ Tech Stack
+
+### Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### Development Tools
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Skills & Expertise
+- **Mobile Development:** React Native, React Navigation, Hooks, JSX, Component Architecture
+- **Languages:** JavaScript, TypeScript, HTML, CSS
+- **State Management:** Redux, Context API, AsyncStorage
+- **Security & Performance:** SSL Pinning, SafetyNet Integration, Reverse Engineering
+- **Authentication:** Facebook SDK, Google Sign-In, Push Notifications
+- **APIs:** RESTful APIs integration and optimization
+
+## 🎯 Key Achievements
+
+- 🚀 **48% increase in sales** through cross-platform app development
+- 👥 **3,500+ active users** supported with optimized performance
+- 📱 **25+ APIs integrated** with seamless functionality
+- 🛡️ **30% reduction in security threats** through advanced security implementations
+- 📦 **1000+ npm downloads** for open-source contributions
+
+### 📦 react-native-basic-dropdown
+[![npm](https://img.shields.io/npm/v/react-native-basic-dropdown?style=flat-square)](https://www.npmjs.com/package/react-native-basic-dropdown)
+[![downloads](https://img.shields.io/npm/dt/react-native-basic-dropdown?style=flat-square)](https://www.npmjs.com/package/react-native-basic-dropdown)
+
+- **Open-source dropdown component** for React Native
+- **Clean integration** with dynamic list support
+- **860+ downloads** and growing
+- [View on NPM](https://www.npmjs.com/package/react-native-basic-dropdown)
+
+## 📊 GitHub Stats
+
+![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 ![](https://github-readme-stats.vercel.app/api?username=vaish8529&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vaish8529&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaish8529&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -22,3 +67,19 @@ I’m Vaishnavi Maske, a mobile application developer with over 4+ years of expe
 [![](https://visitcount.itsvg.in/api?id=vaish8529&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/YOUR_SO_ID)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavi.g.maske@gmail.com)
+
+📍 **Location:** Nagpur, Maharashtra, India  
+📱 **Phone:** +91-8983759429
+
+---
+
+💡 **"Passionate about creating mobile solutions that make a difference. Always learning, always building!"**
+
+⭐️ From [VaishnaviMaske](https://github.com/YOUR_GITHUB_USERNAME)
