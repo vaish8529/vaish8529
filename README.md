@@ -1,11 +1,19 @@
 # Hi there, I'm Vaishnavi Maske! 👋
 
+## 📊 GitHub Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaish8529&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  /><br>
+<img src="https://nirzak-streak-stats.vercel.app/?user=vaish8529&theme=dark&hide_border=false" alt="GitHub Streak" />
+<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaish8529&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  /><br>
+</div>
+
 ## 🚀 About Me
 
 I'm a passionate **React Native Developer** with **5+ years of experience** building scalable iOS and Android applications. Based in Nagpur, Maharashtra, I specialize in creating high-performance mobile solutions that drive business growth and deliver exceptional user experiences.
 
 - 🔭 Currently working as **Software Developer (Project Lead)** at EliteGeneral Insurance Brokers Pvt Ltd
-- 🌱 Experienced in building apps that support **3,500+ users** and boost revenue by **45%+**
+- 🌱 Experienced in building apps that support **3,500+ users** and boost revenue by **48%+**
 - 💡 Published open-source React Native components with **1000+ downloads**
 - 🎯 Focused on **clean architecture**, **performance optimization**, and **security**
 
@@ -48,10 +56,6 @@ I'm a passionate **React Native Developer** with **5+ years of experience** buil
 - **1000+ downloads** and growing
 - [View on NPM](https://www.npmjs.com/package/react-native-basic-dropdown)
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=vaish8529&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vaish8529&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaish8529&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vaish8529&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -63,14 +67,6 @@ I'm a passionate **React Native Developer** with **5+ years of experience** buil
 [![](https://visitcount.itsvg.in/api?id=vaish8529&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-maske) 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaish8529)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavi.g.maske@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19153194/vaishnavi-maske) 
-
----
 
 💡 **"Passionate about creating mobile solutions that make a difference. Always learning, always building!"**
 
